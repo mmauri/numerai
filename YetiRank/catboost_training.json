@@ -1,0 +1,5 @@
+{
+"meta":{"test_sets":["test"],"test_metrics":[{"best_value":"Max","name":"PFound"},{"best_value":"Max","name":"NDCG:type=Base"}],"learn_metrics":[],"launch_mode":"Train","parameters":"","iteration_count":200,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"iteration":0,"passed_time":446.5609171,"remaining_time":88865.62251,"test":[0.7563207365,0.9315909053]}
+]}
